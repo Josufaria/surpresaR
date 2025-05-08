@@ -1,6 +1,6 @@
 
 #img-fundo {
-    position: fixed;
+    position: auto;
     top: 0;
     left: 0;
     min-width: auto;
@@ -30,7 +30,7 @@
   }
   
   .card-foto {
-    border-radius: 0.5rem;
+    border-radius: auto;
     overflow: hidden;
     box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
     transition: all 0.3s ease;
