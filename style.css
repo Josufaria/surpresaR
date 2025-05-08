@@ -1,6 +1,6 @@
 
 #img-fundo {
-    position: auto;
+    position: fixed;
     top: 0;
     left: 0;
     min-width: auto;
